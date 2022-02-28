@@ -1,0 +1,629 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marginall antidotes, to be affixed over against the lines of R.H. and E.B. their pamphlet, entituled, The rebukes of a reviler. Written and prescribed by John Stalham of Terling.</title>
+            <author>Stalham, John, d. 1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93769</idno>
+            <idno type="STC">Wing S5185</idno>
+            <idno type="STC">Thomason E926_3</idno>
+            <idno type="STC">ESTC R207582</idno>
+            <idno type="EEBO-CITATION">99866623</idno>
+            <idno type="PROQUEST">99866623</idno>
+            <idno type="VID">118900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118900)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 139:E926[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Marginall antidotes, to be affixed over against the lines of R.H. and E.B. their pamphlet, entituled, The rebukes of a reviler. Written and prescribed by John Stalham of Terling.</title>
+                  <author>Stalham, John, d. 1681.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Brewster, and are to be sold at his shop at the signe of the Crane in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Hubberthorn, Richard.  The rebukes of a reviler fallen upon his own head.</note>
+                  <note>R.H. = Richard Hubberthorn; E.B. = Edward Burrough.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hubberthorn, Richard, 1628-1662. --  Rebukes of a reviler fallen upon his own head.</term>
+               <term>Burrough, Edward, 1634-1662 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118900:1" rendition="simple:additions"/>
+            <p>Marginall Antidotes, TO BE Affixed over againſt the lines of R. H. and E. B. their PAMPHLET, ENTITULED, The Rebukes of a Reviler.</p>
+            <p>Written and Preſcribed by JOHN STALHAM of <hi>Terling.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PROV. 26.4, 5.</hi>
+               </bibl>
+               <l>Anſwer not a fool according to his folly, leſt thou alſo be like unto him.</l>
+               <l>Anſwer a fool according to his folly, leſt he be wiſe in his own conceit.</l>
+            </q>
+            <p>LONDON, Printed for <hi>Edward Brewſter,</hi> and are to be ſold at his ſhop at the Signe of the <hi>Crane</hi> in St. <hi>Pauls Church-yard</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118900:2"/>
+            <pb n="1" facs="tcp:118900:2"/>
+            <head>Marginal Antidotes, &amp;c. Their Pamphlet thus Prefaceth. <hi>page 3.</hi>
+            </head>
+            <p>[<seg rend="decorInit">W</seg>Hereas the ancient of dayes hath appeared, &amp;c.]</p>
+            <p>A transform<g ref="char:EOLhyphen"/>ing miſt, to a<g ref="char:EOLhyphen"/>maze the ſim<g ref="char:EOLhyphen"/>ple Reader <hi>pag.</hi> 3. 4. 5. 6. as afterwards, <hi>pag.</hi> 18, 19, 20.</p>
+            <p>
+               <hi>Pag. 7.</hi> [ſhameleſly ſtiling the pure light of Chriſt, perverſe principle, and ſelfe-adorning-light]</p>
+            <p>
+               <hi>Quakers</hi> adore their own light, and magnify natural light, as if it were Goſpel-ſaving light: this is from the perverſe principle of their fleſhly wiſe<g ref="char:EOLhyphen"/>dome.</p>
+            <p>
+               <hi>Pag. 8.</hi> [O! How fain would <hi>J. S.</hi> ſinfull indeed]</p>
+            <p>In the ſence that Regenerate men have acknowledged. ſee <hi>Pag.</hi> 149. of my Book, entituled, <hi>The Reviler rebuked.</hi>
+            </p>
+            <p>
+               <hi>Ibid,</hi> [Whether he meanes any one may not, (I determine not) ſtrike them Corporally, &amp;c.]</p>
+            <p>Not any but thoſe authori<g ref="char:EOLhyphen"/>zed, and that either <hi>Se defendendo,</hi> or for a criminall offence.</p>
+            <p>
+               <hi>Pag. 9.</hi> [Would wickedly make men believe, that theſe mens Tenents, ſc. <hi>the Quaker's:</hi> are as Reprobate ſtuff as the <hi>Je<g ref="char:EOLhyphen"/>ſuites</hi>]</p>
+            <p>Some of their Tenents, I ſaid' witneſs their Doctrine of Juſtification.</p>
+            <p>
+               <pb n="2" facs="tcp:118900:3"/>
+[Their blaſphemies as horrid as the Popiſh Paraſites.]</p>
+            <p>Witneſs <hi>Jam. Nayler</hi> and his followers.</p>
+            <p>
+               <hi>Pag. 10.</hi> [Would have ſome Stigmatized]</p>
+            <p>For their crimes (I ſaid, not bare opinions) which are notorious, and groſſe ſeandalous practiſes.</p>
+            <p>
+               <hi>Ibid.</hi> [Who art a reviler of the light of Chriſt, calling it per<g ref="char:EOLhyphen"/>verſe Principle]</p>
+            <p>The liberty theſe men take to wreſt, adde, or detract, is hereby evident; for, I never called the light of Chriſt perverſe Principle, but (as above) in that they ſet up ſomething in the room, of Chriſt. <hi>i. e.</hi> themſelves and their common candle-light of reaſon, which they worſhip and adore (as ſome have of old the light of the Firmament) this ſelf-adoring light is their perverſe Principle.</p>
+            <p>
+               <hi>Pag. 11.</hi> [In the ſight of his Church, that his ſhame may not appear before them]</p>
+            <p>The Church here is aſha<g ref="char:EOLhyphen"/>med of your Doctrines and walkings.</p>
+            <p>
+               <hi>Pag. 12.</hi> [All are Reprobates, but ſuch in whom Chriſt is within them]</p>
+            <p>Then all the E<g ref="char:EOLhyphen"/>lect are Repro<g ref="char:EOLhyphen"/>bates before Converſion.</p>
+            <p>
+               <hi>Ibid.</hi> [I ask a proof of this, <hi>ſc.</hi> Christ's bleſſing of Infant-Baptiſme]</p>
+            <p>Many thou<g ref="char:EOLhyphen"/>ſands have &amp; wil ſeal unto it.</p>
+            <p>
+               <hi>Pag. 13.</hi> [He ſeemes to charge the Scripture with falſe Tranſlations]</p>
+            <p>The Scripture in the true ſence, is the believers Rule. True Tranſlations may vary in words, yet not Deviate from the true ſence.</p>
+            <p>
+               <hi>Pag. 14.</hi> [His wickedneſſe appeares by reproching, and reviling dead men, ſuch as <hi>H. N. Jacob B. W. E.</hi>]</p>
+            <p>This is no judgment (in my Epiſtle) paſs'd upon the men, but upon and according to their Doctrines.</p>
+            <p>
+               <hi>Pag. 15.</hi> [ Shall the honeſt Reader receive this for truth, that the light of Chriſt Jeſus is a perverſe Principle]</p>
+            <p>This the fifth time the An<g ref="char:EOLhyphen"/>ſwerer hath falſified my ſence and words, as to this one paſſage. <hi>See Antidote upon his page</hi> 7. <hi>and</hi> 10.</p>
+            <p>
+               <hi>Ibid.</hi> [Wee demand what theſe Jeſuiticall plots and deſigns are, we do carry on]</p>
+            <p>They are your ſcattering ſeeds of Popery, and fomenting ſeeds of diviſion among Proteſtants and Puritans in profeſſion, to carry them more and more back to Babylon.</p>
+            <p>
+               <hi>Pag. 16.</hi> [ We do not allow that <hi>J. S.</hi> be our Interpreter]</p>
+            <p>Your words compared, one Book, and page with another, and all examined by Scripture, interpret themſelves. which was <hi>J. S.</hi> his faithfullneſs to diſcover how contradictious they are.</p>
+            <p>
+               <hi>Ibid.</hi> [His judgment is but out of his old lying heart]</p>
+            <p>This is their charity (if we confeſſe we have ſomething of the old man in us) to judg that all we write and ſpeak, proceed from the old principle, and nothing from the new creature.</p>
+            <p>
+               <pb n="3" facs="tcp:118900:3"/>
+               <hi>Pag. 17.</hi> [Not in the light of the Spirit, do we in any one particular inſiſted upon by him, contradict the Scripture.]</p>
+            <p>You do not ſee your con<g ref="char:EOLhyphen"/>tradictions, through want of Spirituall light, and eyes together.</p>
+            <p>
+               <hi>Ibid.</hi> [Out of <hi>J. S.</hi> deceitfull heart]</p>
+            <p>*I ſhall not re<g ref="char:EOLhyphen"/>tort, but pray for all ſimple Readers, and Revilers.</p>
+            <p>
+               <hi>Pag.</hi> [ <hi>18, 19.</hi> For aſ much as many have been moved]</p>
+            <p>Another transforming miſt, and a bold, but feigned imitation of <hi>Luke Chap.</hi> 1.1. &amp;c.</p>
+            <p>
+               <hi>Pag. 20.</hi> [ And now as the Prophet <hi>Joel</hi> Propheſied, is it come and coming to paſſe, <hi>Joel,</hi> 2 2, 3, 4. 10, 11.]</p>
+            <p>An abuſe of the Prophet <hi>Joel,</hi> who is literally to be underſtood in the place quoted, and <hi>Chap.</hi> 2. to be Expounded by <hi>Chap.</hi> 1. <hi>ver.</hi> 3.6.12. &amp;c.</p>
+            <p>
+               <hi>Pag. 21.</hi> [The ground in him, and the heart, out of which this abundance of words in his book proceeds, is the root of all errour]</p>
+            <p>ſee 2<hi rend="sup">d</hi> Ani<g ref="char:EOLhyphen"/>madverſion up<g ref="char:EOLhyphen"/>on <hi>pag.</hi> 16.</p>
+            <p>
+               <hi>Ibid.</hi> [ Yet the root of all ſin is in him, and ſeen by him not mortified]</p>
+            <p>Becauſ <hi>Paul,</hi> ſaid there dwelt no good thing in his fleſh, did he therefore write no truth in his Epiſtles? It followeth aſ well as theſe mens reaſoning. An old Heart and a new, are both at the ſame time; not raigning, but the old remaining in part, and the new raigning over the old, in the ſame Chriſtian. <hi>See</hi> 113. 114. <hi>pages of my Book,</hi>
+            </p>
+            <p>
+               <hi>Pag. 22.</hi> [Such who be in the ſtate as <hi>J. S.</hi> confeſſeth he is]</p>
+            <p>
+               <hi>J. S.</hi> ſaid not that he is in the ſtate of ſin, but that ſin (the root of every ſin) is in him, and others during the ſtate of naturall Life.</p>
+            <p>
+               <hi>Pag. 23.</hi> [The Letter taken strictly, being legall, <hi>&amp;c.</hi> The Spirit is given by this]</p>
+            <p>Not by this, but by that part of the word which is the Goſpel promiſe. <hi>See my Book pag,</hi> 4. Yet the Spirit work<g ref="char:EOLhyphen"/>eth by the Legall Letter, <hi>ſee how page</hi> 6.</p>
+            <p>
+               <hi>Pag. 24.</hi> [Though <hi>J. S.</hi> ſay, that not one man in the World knows God to be God, till he findes him in the Scripture,</p>
+            <p>If he had ſo ſaid, it were to be taken in, the ſence given in my Book, <hi>pag.</hi> 66. but my words are to be read as they are <hi>pag.</hi> 69. Not one man &amp;c. knows him (ſpeaking of Chriſt) to be God, till he finds him in the Scripture. <hi>John</hi> 1.45.</p>
+            <p>
+               <hi>Pag. 25.</hi> [Again, <hi>I. S.</hi> ſaith, that the Authority of the Scrip<g ref="char:EOLhyphen"/>tures is owned among the <hi>Jewes</hi> to this day]</p>
+            <p>The Autho<g ref="char:EOLhyphen"/>rity of <hi>Moſes</hi> and the Prophets. I onely ſpeak of. <hi>ſee my</hi> 13. <hi>page.</hi>
+            </p>
+            <p>
+               <hi>Ibid.</hi> [<hi>J. S.</hi> ſaith, as deep things as the Spirit hath revea<g ref="char:EOLhyphen"/>led, they are all in the Scripture. <hi>Anſwer,</hi> Nay.]</p>
+            <p>As Gold pieces of 10. and 20.<hi rend="sup">•</hi> are in the gold One.</p>
+            <p>
+               <hi>Ibid.</hi> [There was things revealed which was unutterable, and many things written which is not in the Scriptures, as the Book of <hi>Nathan</hi> the <hi>Prophet.</hi> &amp;c.</p>
+            <p>we know by Scripture the e was ſuch things revealed, and ſuch Books written. <hi>ſee my</hi> 17. <hi>&amp;</hi> 18. <hi>with</hi> 67. <hi>pages.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:118900:4"/>
+               <hi>Pag. 26.</hi> [Why doth he not as well hear witneſſe that <hi>Pauls</hi> Epiſtle to the <hi>Laodiceans</hi> was read as the Word of the Lord a<g ref="char:EOLhyphen"/>mongſt the <hi>Coloſſians?</hi>]</p>
+            <p>Becauſe he is no Jeſuite, nor one that would be wiſe above what is written.</p>
+            <p>
+               <hi>Ib.</hi> [Why doth he not read to his people that which was written to the <hi>Laodiceans?</hi>]</p>
+            <p>
+               <hi>Paul</hi> ſpeaks not of any E<g ref="char:EOLhyphen"/>piſtle that himſelf, or any other (appointed as Pen men of Scripture) did write to the <hi>Laodiceans,</hi> but of one ſent from <hi>Laodicea.</hi> Let the deluded read <hi>Coloſ.</hi> 4.16. once more.</p>
+            <p>
+               <hi>Pag. 27.</hi> [ We know <hi>John's</hi> Teſtimony is true, <hi>Joh. 21.25.</hi>]</p>
+            <p>
+               <hi>John</hi> meaneth nor, that there was any ſubſtantial truth neceſſary to be known to ſalvation, which is not revealed in the written Word, but that the Spirit ordered the copious myſteries of the Goſpel (with reſpect unto our infirmitie) to be contracted within a narrow compaſs of lines. <hi>R. H.</hi> in this and former pag. doth but murmure and object, as the popiſh Rhe<g ref="char:EOLhyphen"/>miſts, <hi>The Hereticks will needs have all in Scripture.</hi>
+            </p>
+            <p>
+               <hi>Pag. 28.</hi> [Working all their works in them, and for them ac<g ref="char:EOLhyphen"/>cording to the Scriptures.]</p>
+            <p>Agreed, in true Scripture-ſenſ.</p>
+            <p>
+               <hi>Ibid.</hi> [See if the ſword of the Spirit was ever in the Divel's mouth.]</p>
+            <p>The Divel takes up the ſword without the Spirits aim and edge.</p>
+            <p>
+               <hi>Pag. 29.</hi> [By this Scripture <hi>Prov. 22.19, 20, 21.</hi> the Lord is made the ground of faith, and not the letter.]</p>
+            <p>See the true explanation of this Scripture in my 32 page.</p>
+            <p>
+               <hi>Page 31.</hi> [He here adding his own, &amp;c.]</p>
+            <p>R. F. ſure meaneth what he ſpeaks of, <hi>viz.</hi> Every mans light, and this he ſaith is pure: Can it bee pure and not purifie, and renew?</p>
+            <p>
+               <hi>Ib.</hi> [ We never have ſaid, that every man's judgment is re<g ref="char:EOLhyphen"/>newed with the light.]</p>
+            <p>What then is that which G. F. hath prompted to his Novices in his Catechiſm? pag. 22. <hi>which light</hi> (ſpeaking of every man's light, if owned) <hi>gives them the knowledge of the glory of God, and brings them to true judgment.</hi>
+            </p>
+            <p>
+               <hi>Ib.</hi> &amp; <hi>Pag. 32.</hi> [<hi>2 Pet. 1.20.</hi> To this <hi>J. S.</hi> adds, not heart-propheſie, nor breaſt-propheſie.]</p>
+            <p>Ariſing and reſiding onely in the mind, but written down in books, &amp;c. J. S. added alſo; As the Apoſtle excludes not heart-propheſie, ſo he includes expreſly Scripture-propheſie.</p>
+            <p>
+               <hi>Ibid.</hi> [The Apoſtle did not bid them wait till the Day-ſtar did ariſe in the Scriptures.]</p>
+            <p>No, but till the Day-ſtar did ariſe in their minds, by the reading and heeding of the Scriptures, that's his plain mean<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>Pag. 33.</hi> [And in another tranſlation ſaith, that he is the expreſs figure of the Fathers ſubſtance.]</p>
+            <p>The Popiſh Engliſh Rhe<g ref="char:EOLhyphen"/>miſts.</p>
+            <p>
+               <pb n="5" facs="tcp:118900:4"/>
+               <hi>Ib.</hi> [Till he find the word three Perſons, and Trinity in the Scriptures, let him own his own rule to judge him to be no meſ<g ref="char:EOLhyphen"/>ſenger ſent by God's Spirit.]</p>
+            <p>If we find the word <hi>[<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſon]</hi> in one place, and the word <hi>[Three]</hi> in another; where Father, Word and Spirit are ſpoken of, it is enough to juſtifie the uſe of the word <hi>[Trinity]</hi> and to prove the thing.</p>
+            <p>
+               <hi>Ib.</hi> [Mark this, A perſon dwell in the Saints not perſonally.]</p>
+            <p>No, not ſo, as to make the Holy Spirit and a Saint one perſon, doth he dwell; but myſtically, as in his ſpiritual Temple.</p>
+            <p>
+               <hi>Pag. 34.</hi> [Saying, that the Godhead-light is not the Redem<g ref="char:EOLhyphen"/>ption-light.]</p>
+            <p>Objectively ſo called (not Subjectively) that is, light or knowledge given to every man about the God-head.</p>
+            <p>
+               <hi>Pag. 35.</hi> [As God is, ſo is his light, and ſo is his Godhead, not created, <hi>&amp;c.</hi>]</p>
+            <p>God's own eſ<g ref="char:EOLhyphen"/>ſential light is, uncreated, and his very nature. The light that <hi>Adam</hi> was qualified with before the Fall and which every man (as a man) hath a ſpark of ſince the Fall, was and is given from the Creation, and by the things that are made. Read <hi>Rom.</hi> 1.20. and believe.</p>
+            <p>
+               <hi>Ibid.</hi> [<hi>In page 64.</hi> ſaying, Light without Scripture is no light.]</p>
+            <p>
+               <hi>i. e.</hi> Beſides, or not according to Scripture, as is explained in that page.</p>
+            <p>
+               <hi>Ibid.</hi> [Was the ſaving light made by that wich was written.]</p>
+            <p>I never ſaid <hi>[made]</hi> but made known it is by the Scripture, and there to be found.</p>
+            <p>
+               <hi>Page 36.</hi> [<hi>As page 68. he ſaith,</hi> That God was, and is the Word, according to <hi>Joh 1.1.</hi>]</p>
+            <p>I ſaid not ſo, nor is it ſo ex<g ref="char:EOLhyphen"/>preſt, <hi>Joh.</hi> 1.1. But the Word was [and is] God, yet God the Father is not the Word.</p>
+            <p>
+               <hi>Ib.</hi> [<hi>In page 70. ſaith,</hi> Chriſt is more in the Scriptures, then in the Saints, which is falſe.]</p>
+            <p>There is more of Chriſts puri<g ref="char:EOLhyphen"/>ty in the Scriptures, then in the Saints, yet is he greater then the Saints, and the Scrip<g ref="char:EOLhyphen"/>tures alſo.</p>
+            <p>
+               <hi>Ibid.</hi> [<hi>In pag. 73. he ſaith,</hi> Chriſt ſpeaking in the Scripture, ſaveth by the Scripture, which is falſe, <hi>&amp;c.</hi>
+            </p>
+            <p>Chriſt ſaveth by his life and grace meritoriouſly, and efficaciouſly, by the Scripture declaratively, through faith, giv'n as a means of our application of him. All this witneſs is true.</p>
+            <p>
+               <hi>Page 37.</hi> [Neither is there ſuch a word written in the Bible, that ſay, men is ſaved by Scriptures]</p>
+            <p>Read <hi>Acts</hi> 11.14. with <hi>Acts</hi> 26.22. and underſtand.</p>
+            <p>
+               <hi>Ibid.</hi> [Doth that light (of Scripture) <hi>&amp;c.</hi> darken mens minds.]</p>
+            <p>Yes, by acci<g ref="char:EOLhyphen"/>dent, (as the Sun dazleth and dimmeth weak eies) but of it ſelf, and from the Spirit, it en<g ref="char:EOLhyphen"/>lightneth mens dark underſtandings.</p>
+            <p>
+               <hi>Ib.</hi> [<hi>He ſaith 75 page,</hi> Goſpel-light never entered, never ſhined into mens hearts.</p>
+            <p>
+               <hi>i. e.</hi> By the power &amp; pro<g ref="char:EOLhyphen"/>duct of nature, read my 75 page to this effect.</p>
+            <p>
+               <hi>Ib.</hi> [To this let all take notice, and conſider whether of theſe two (Contraries) they are to believe; the one ſaying, God ſhineth in their hearts by Goſpel-light; and the other ſaith, It never en<g ref="char:EOLhyphen"/>tred into mens hearts.]</p>
+            <p>Both are to be believed, al<g ref="char:EOLhyphen"/>though Para<g ref="char:EOLhyphen"/>doxes to car<g ref="char:EOLhyphen"/>nal reaſon.</p>
+            <p>
+               <pb n="6" facs="tcp:118900:5"/>
+               <hi>Pag. 38.</hi> [Prieſt <hi>J. Stelham</hi> &amp;c.</p>
+            <p>Or what you will call him.</p>
+            <p>
+               <hi>Ibid.</hi> [The Scripture ſpeakes of no ſuch diſtinction as of a Moral Law, <hi>&amp;c.</hi> And Ceremoniall <hi>&amp;c.</hi>]</p>
+            <p>Groſs igno<g ref="char:EOLhyphen"/>rance or wilful blindneſſe.</p>
+            <p>
+               <hi>Pag. 39</hi> [But I ſay that Covenant in which Adam was <hi>&amp;c.</hi> he ſtood in that, and by that <hi>&amp;c.</hi>]</p>
+            <p>But you know not what to call it, whether that of works, or Chriſt's of grace.</p>
+            <p>
+               <hi>Ibid. [He ſpeaks of three Covenants]</hi>
+            </p>
+            <p>not ſo, ſee my <hi>90</hi> p.</p>
+            <p>
+               <hi>Pag. 40.</hi> [I ſay that there is but two Covenants ſpoken of in Scripture, as the Apoſtle to the <hi>Hebrews;</hi> In that he ſaith a new covenant, he maketh the firſt old.]</p>
+            <p>Theſe (men<g ref="char:EOLhyphen"/>tioned, <hi>Heb.</hi> 8. laſt) are but two different Adminiſtrations of one and the ſame Covenant of grace; the one antiquated and out of date, the other in force: ſee my 91. <hi>page.</hi>
+            </p>
+            <p>
+               <hi>Ibid.</hi> [That which ſaid, do this and live, promiſed life, and mention'd Chriſt]</p>
+            <p>
+               <hi>J. Nayler</hi> did not ſo under<g ref="char:EOLhyphen"/>ſtand it, See my 104. <hi>page.</hi>
+            </p>
+            <p>
+               <hi>Ibid.</hi> [And ſuch denyed which ſpeake of a Covenant, that mentions nothing of a Saviour: and that to be the Rule of true believers.]</p>
+            <p>The morall Law, or deca<g ref="char:EOLhyphen"/>logue, in it's Rigour, and as a covenant of works formally is not a believers rule: but materially, or in reſpect of good things, and evill things forbidden therein, It is Chriſt's rule to every true Believer, and none of his Commandements, are grievous to the Regenerate heart, and part.</p>
+            <p>
+               <hi>Pag. 41.</hi> [ The more a ſoul is ſanctified, the more he ſees a Mote, to be a Mote; and a Beam, to be a Beam]</p>
+            <p>Yet he ſees ſo much in his Motes which was my expreſſion (<hi>in my</hi> 112. <hi>pag.</hi>) that he ſees more evill in a ſin of a thought, a vain thought, then another will, or can ſee in a wicked oath, or blaſphemy: and he will aggravate them in confeſſion, according to due circumſtance, as a Beam.</p>
+            <p>
+               <hi>Ibid.</hi> [ <hi>Paul</hi> had not victory over ſin and death, while he groaned under it]</p>
+            <p>How boldly and falſly is this ſpoken? When as (with one breath) <hi>Paul</hi> is both groaning and giving thanks about his preſent condition. <hi>Rom.</hi> 7.24.25. ſee it farther cleared in my 114. 115. <hi>pages.</hi>
+            </p>
+            <p>
+               <hi>Ibid.</hi> [God never juſtified any as a ſinner, but as made o<g ref="char:EOLhyphen"/>bedient through faith]</p>
+            <p>What will you make of thoſe Scriptures? <hi>Rom.</hi> 4.5. and <hi>chap.</hi> 5. <hi>ver.</hi> 8.10. <hi>ſee my</hi> 120. 121. <hi>pages.</hi>
+            </p>
+            <p>
+               <hi>Pag. 42.</hi> [The ungodly, they were firſt called (out of their ungodlineſſe) as whom he called, them he alſo juſtified]</p>
+            <p>Whom he calleth he juſti<g ref="char:EOLhyphen"/>fieth, but he calleth ſinners, them therefore he juſtifieth; He calleth ſinners, that they may believe to their juſtification from guilt, to their ſanctification from filth, and them he glorifieth, Firſt in Title, laſt in Poſſeſſion.</p>
+            <p>
+               <hi>Ibid.</hi> [<hi>J. S.</hi> Would ſet the Law, &amp; juſtice of God at a difference with the Goſpel, <hi>&amp;c.</hi>]</p>
+            <p>This Scribler Rants here (if you obſerve it) with his Pen, as if he underſtood neither Law nor Goſpel.</p>
+            <p>
+               <pb n="7" facs="tcp:118900:5"/>
+               <hi>Ibid.</hi> [The Righteouſneſſe of God, will not leave men diſobe<g ref="char:EOLhyphen"/>drent, nor ſinners, if ever they come to mercy]</p>
+            <p>But till they come to mercy doth Law-Juſtice ſet them free? Goſpel-Juſtice indeed, for Chriſt's, the ſureties ſake, moved by mercy, abſolves them; But the Juſtice of God unſatisfied by mens beſt con<g ref="char:EOLhyphen"/>formity to the Law, finds them guilty, binds them hand and foot over to condemnation, and execution.</p>
+            <p>
+               <hi>Ibid.</hi> [That Doctrine is accurſt from God, which ſaith, the Juſtice of God's Law, finds men ſinners and leaves men ſo]</p>
+            <p>Let ſinners tremble (who believe not on true Goſpel-juſtifying righteouſneſſe in Chriſt alone) nor at this mans Curſing, but at the Curſe of Gods Law, <hi>Gal.</hi> 3.10.</p>
+            <p>
+               <hi>Pag. 42. 43.</hi> [He concludes, it had been better the Scripture had not been known or written.]</p>
+            <p>It had been better (I ſaid) for him that ſhuts out Scripture from being Chriſt's Organ, or the Spirits Inſtrument, and meanes of Regeneration, that he had never known the Scripture, or written a word about it, ſee my 138. <hi>page,</hi> and obſerve a meer forgery in this Anſwer.</p>
+            <p>
+               <hi>Pag. 43.</hi> [<hi>J. S.</hi> Saying, the Saints in Heaven hoped for the perfection of their bodies: at the Reſurrection, and again con<g ref="char:EOLhyphen"/>tradicts that ſaying, that at death they have a finall perfection, <hi>&amp;c.</hi>
+            </p>
+            <p>not at all, for the Saints per<g ref="char:EOLhyphen"/>fection at death is onely in their Spirits, or ſouls ſeparated from their bodies; which Bodies though they be perfectly redeemed already by prayers, yet not ſo by power: till the Reſurrection.</p>
+            <p>
+               <hi>Ibid.</hi> [ If people mind the Scriptur, there is no ſuch Do<g ref="char:EOLhyphen"/>ctrine in it, as the Saints have not received the Redemption of their bodies.]</p>
+            <p>If the blind lead the blind, what will fol<g ref="char:EOLhyphen"/>low? Let people turne to <hi>Rom.</hi> 8.23, 24, 25. And preſerve their eye-ſight, or recover is, if loſt.</p>
+            <p>
+               <hi>Pag. 45.</hi> [If any turne from the truth into any act of un<g ref="char:EOLhyphen"/>cleanneſs: then they take that as a proof againſt thoſe that a<g ref="char:EOLhyphen"/>bide in the truth]</p>
+            <p>It is proof ſufficient a gainſt abſolute perfection in this life, from which none (had they it) ſhall ever fall, as did <hi>Adam,</hi> and the Angels.</p>
+            <p>
+               <hi>Pag. 46.</hi> [Theſe are they that plead for a life in ſin, while here: and that ſay, the Saintes glorified in Heaven do yet hope, <hi>&amp;c.</hi>
+            </p>
+            <p>Chriſt him<g ref="char:EOLhyphen"/>ſelf expecteth the finall proſternation of his enemies, <hi>Heb.</hi> 10.13. The Saints glorified may well hope for the Reſurection of their bodies, when Death, the laſt enemy, ſhall be deſtroyed.</p>
+            <p>
+               <hi>Ibid.</hi> [He ſpeakes of a warfare (which yet he himſelf ne<g ref="char:EOLhyphen"/>ver came unto)</p>
+            <p>How then feels he himſelfe to be ſinfull, and hates the body of ſin, ſo as to deſire and wait for the utter extirpation of it in himſelfe?</p>
+            <p>
+               <hi>Ibid.</hi> [It is not ſin that is the Condemnation, but the light: which lets men ſee their ſinnes.]</p>
+            <p>We muſt pardon his Ig<g ref="char:EOLhyphen"/>norance (who thus writes) for ſin is the proper cauſe, and light but the accidentall caſion of mens condemnation.</p>
+            <p>
+               <pb n="8" facs="tcp:118900:6"/>
+               <hi>Ibid</hi> [ This I ſhall affirm, that none comes unto godly ſorrow, but they deny dwelling ſin; and they that do not deny in-dwelling ſin, denies godly ſorrow.]</p>
+            <p>Here is a pretty ſubtilty couch't under ambiguous terms; but know, it is one thing to deny pleaſure in conſent, love and obedi<g ref="char:EOLhyphen"/>ence to in-dwelling ſin, as do all humble godly-ſorrowing Saints, and another thing to deny that ſin dwelleth, or remaineth in all the Saints upon earth, as hath been the <hi>Quakers</hi> Doctrine, the conſequence whereof is to diſclaim godly ſorrow, for fin dwel<g ref="char:EOLhyphen"/>ing in them; for have they any cauſe to be ſorry (as to themſelves) for that which is not radically in them?</p>
+            <p>
+               <hi>Pag. 47.</hi> [He is ſetting up obligations]</p>
+            <p>No legal ones</p>
+            <p>
+               <hi>Ibid.</hi> [Of Reading, Hearing, Praying, Preaching, to which he ſaith, Life and Salvation is promiſed]</p>
+            <p>As they are ordeined meanes of grace, to which God hath annexed his promiſe in their right order and uſe, not as meer duties done with a legall frame of Spirit.</p>
+            <p>
+               <hi>Ibid. Page. 47.</hi> [All promiſes are to the ſeed]</p>
+            <p> What ſeed? but that one Seed Jeſus Chriſt, primarily, <hi>Gal.</hi> 3.16. and to all at Second-Hand, who are Chriſt's true ſeed. <hi>Gal.</hi> 3. <hi>laſt.</hi>
+            </p>
+            <p>
+               <hi>Ibid.</hi> [Who reads his Book, may ſee his proofs for Infant-Bap<g ref="char:EOLhyphen"/>tiſme; By conſequence, he would have Scripture ſpeak <hi>&amp;c</hi>]</p>
+            <p>So let him read, and ſearch the Scriptures, where many a truth is onely taught by conſequence.</p>
+            <p>
+               <hi>Pag 48.</hi> [He never commanded them to be Baptiſed with water.]</p>
+            <p>This is as true as that the Ho<g ref="char:EOLhyphen"/>ly Ghoſt is no Perſon.</p>
+            <p>
+               <hi>Ibid.</hi> [He cannot prove in Juſtice, that ever Infants-Bap<g ref="char:EOLhyphen"/>tiſme, was either commanded, or practiſed]</p>
+            <p>with what equity or reaſon can you call for a command for water-Baptiſme to Jnfants, who deny it to the <hi>Adulti,</hi> or them of yeares?</p>
+            <p>
+               <hi>Pag. 49.</hi> [ <hi>J.S.</hi> Proves not that any thing which Chriſt inſtituted amongſt the Saints onely, was practiſed in the World, among ſuch who are not called]</p>
+            <p>He never un<g ref="char:EOLhyphen"/>dertook to prove the Lord's Supper, (for which <hi>R. H.</hi> is ſpeaking) to be common to all.</p>
+            <p>
+               <hi>[Pag. 50.</hi>] Waſt paper.</p>
+            <p>
+               <hi>Pag. 51.</hi> [He hath condemned all his own praying, who confeſſeth he is wicked, <hi>&amp;c.</hi>]</p>
+            <p>Wicked was not his expreſ<g ref="char:EOLhyphen"/>ſion <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but ſinfull; it is his ſhame, and grief to be ſo; but it's his glory and comfort that he <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> himſelf to be ſo.</p>
+            <p>
+               <hi>Ibid.]</hi> All the ſaints upon earth, who have the Spirit of Chriſt, ſhall witneſſe againſt <hi>J.S.</hi>]</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is a wide <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as any <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pamphlet is ſtuffed withall.</p>
+            <p>
+               <hi>Pag. 52.</hi> [What is this to the purpoſe, to prove the world muſt ſing]</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The Reader will here find much waſte paper.</p>
+            <p>
+               <pb n="9" facs="tcp:118900:6"/>
+               <hi>Page. 54.</hi> [The Call to the true Miniſtory and Elderſhip is not by man, nor of man, but by the Lord, according to <hi>Gal. 1.1.</hi>
+            </p>
+            <p>That Scripture is vindicated and cleared in my 211 page.</p>
+            <p>
+               <hi>[Pag. 54.55.]</hi>
+            </p>
+            <p>More waſte paper. </p>
+            <p>
+               <hi>Pag. 56.</hi> [When the Law of the Land ceaſes to maintein them, which will come ſooner then they expect, then may they beg their bread, or periſh for want.]</p>
+            <p>This man may aſ well prove a falſ Prophet as falſe Teacher</p>
+            <p>
+               <hi>Pag. 57.</hi> [If he have not the ſame Call, by the ſame Spirit, as the Apoſtles had, he is no Minister of Chriſt.]</p>
+            <p>Are all Apo<g ref="char:EOLhyphen"/>ſtles? or is this man blinded with—</p>
+            <p>
+               <hi>Pag. 58.</hi> [God promiſed to teach his people himſelf, and this man holds forth that he intended it not, &amp;c.]</p>
+            <p>He intended it not onely by an immediate way. God teacheth his people himſelf, when he teacheth them by the Mi<g ref="char:EOLhyphen"/>niſtry of men of his ſending, <hi>Mat.</hi> 23.24.</p>
+            <p>
+               <hi>Pag. 58.</hi> [Which Spirit is immediate.]</p>
+            <p>He comes im<g ref="char:EOLhyphen"/>mediately from the Father, and the Son, yet gives out himſelf ordinarily, and onely by means of his own appointment.</p>
+            <p>
+               <hi>Pag. 59.</hi> [He ſeparates betwixt the words and the voice, or breath.]</p>
+            <p>By voice <hi>Joh.</hi> 5.37. is not meant breath, or Spirit, but what you read of <hi>Deut.</hi> 4 12. <hi>Mat.</hi> 3. <hi>laſt.</hi> &amp; 17.5.2 <hi>Pet.</hi> 1.18. Chriſt diſtinguiſheth between God's written Word, and his immediate voice from hea<g ref="char:EOLhyphen"/>ven, and yet divides not his Spirit and Breath from either. His Word is not his Spirit, yet his Spirit is in his Word: his voice is not his breath, and yet it is not without it.</p>
+            <p>
+               <hi>Pag. 60. Waste Paper.</hi>
+            </p>
+            <p>
+               <hi>Pag. 61.</hi> [As if there were two righteouſneſſes of Chriſt.</p>
+            <p>Yes, aſ well as two natures.</p>
+            <p>
+               <hi>Ibid.</hi> The righteouſneſs of Chriſt is but one, by which all the Saints are juſtified.]</p>
+            <p>More truly ſaid then you are aware of.</p>
+            <p>
+               <hi>Ibid.</hi> Acts of holineſs, &amp;c. this is a righteouſneſs of ours, ſaith he.]</p>
+            <p>Yes, in themat<g ref="char:EOLhyphen"/>ter of juſtifica<g ref="char:EOLhyphen"/>tion not to be admitted.</p>
+            <p>
+               <hi>Ibid.</hi> Let men ſee his ignorance.]</p>
+            <p>Blind men.</p>
+            <p>
+               <hi>Ibid.</hi> Though it be wrought by the ſtrength of Christ in us, yet as to juſtification, Paul (he ſaith) would not be ſound in it. This mark again, Reader, canſt thou ſee any thing here but igno<g ref="char:EOLhyphen"/>rance?]</p>
+            <p>The blinded Reader he muſt needs be, whoſe eies the Lord open, &amp; then he may ſee a myſterie of godlineſſe in our doctrine, and a myſterie of iniquitie in yours.</p>
+            <p>
+               <hi>Ibid.</hi> Mark again, What was the converting of many hun<g ref="char:EOLhyphen"/>dred of ſouls by Paul, and many other works of God wrought by him but dung and loſs, ſo <hi>J.S.</hi> holds forth, <hi>i.e.</hi> in the matter of Juſtification, this is ignorance indeed, &amp;c.]</p>
+            <p>None but your Ignoramus's will believe you.</p>
+            <p>
+               <pb n="10" facs="tcp:118900:7"/>
+               <hi>Ib.</hi> The Queſtion is, what this honour is that he calls civil?</p>
+            <p>When you com to you ſelvs you will underſtand it.</p>
+            <p>
+               <hi>Pag. 63.</hi> Neither <hi>Major</hi> nor <hi>minor</hi> proved.]</p>
+            <p>They were proved before in the whole diſcourſe about ſwearing, from pag. 235. to 241.</p>
+            <p>
+               <hi>Ibid.</hi> They that charge Chriſt and the Apoſtles with contra<g ref="char:EOLhyphen"/>dicting Scripture, are enemies to God, &amp;c. but <hi>J.S.</hi> hath done ſo, <hi>ergo.</hi>
+            </p>
+            <p>When you prove your <hi>mi<g ref="char:EOLhyphen"/>nor,</hi> your con<g ref="char:EOLhyphen"/>cluſion may be true.</p>
+            <p>
+               <hi>Ibid.</hi> He charges us, that we contradict our ſelvs, which ac<g ref="char:EOLhyphen"/>cuſation we bear with as much patience as we do his former.</p>
+            <p>That is, none at all, that is viſible in your writings.</p>
+            <p>
+               <hi>Pag. 64.</hi> Theſe things I leave with the Reader.]</p>
+            <p>Wiſe and in<g ref="char:EOLhyphen"/>telligent let him be, and not one of your Novices.</p>
+            <p>
+               <hi>Ibid.</hi> To deny Matthew, Mark, Luke, and Johns declara<g ref="char:EOLhyphen"/>tions of the Goſpel, to be Goſpel, is no denial of the Scripture.]</p>
+            <p>You neither know what you deny, nor what you affirm, but go to School (in time) to <hi>Mark</hi> 1.1, 2. and know what that meaneth.</p>
+            <p>
+               <hi>Pag. 65. rightly paged.</hi> [The example of Abrahams ſer<g ref="char:EOLhyphen"/>vant is nothing &amp;c.]</p>
+            <p>It is ſomthing to prove my ſervant may and cought to call me, as I am, his Maſter.</p>
+            <p>
+               <hi>Ibid</hi> [<hi>J.N.</hi> doth not ſay the Letter is the Believers wit<g ref="char:EOLhyphen"/>neſſe?]</p>
+            <p>Where learnt J.N. that the believers witneſſe is in himſelf, but from the Scripture, ſee my 245, 246 pages.</p>
+            <p>
+               <hi>Ibid.</hi> [<hi>Joh. 5.39.</hi> Doth ſay, the Scripture teſtifieth of him, but it doth not ſay, that he is revealed in the Scripture, &amp;c.]</p>
+            <p>What diffe<g ref="char:EOLhyphen"/>rence is there between teſtifying and revealing, in this caſe eſpecially? You, and your whole sect love to contend about words.</p>
+            <p>
+               <hi>Pag. 66.</hi> The Apoſtles of Christ did not preach what they had gathered from Scripture.]</p>
+            <p>Go learn what that Sermon of <hi>Paul</hi> means, <hi>Act.</hi> 13. and whence he had his Quotations, verf. 18, &amp;c. verſ. 22, 33, 34, 35, &amp; verſ. 40.</p>
+            <p>
+               <hi>Ibid.</hi> [In the next he will be proved a falſe Prophet.]</p>
+            <p>When the Scri<g ref="char:EOLhyphen"/>pture is found falſe, from whence I preach, then I ſhall be found a falſe Prophet.</p>
+            <p>
+               <hi>Ibid.</hi> [That <hi>E.B.</hi> compiled a book out of Scripture-Collecti<g ref="char:EOLhyphen"/>ons is falſe.]</p>
+            <p>I ſuppoſed you would pretend to it, at leaſt, who affixe above a hundred Texrs of Scripture to your warning to <hi>Under-Barrow:</hi> Did the Spirit bring every Chapter and Verſe to mind? and did you read none of the Quorations before vou wrote them? Did the Spirit teach you to miſapply them?</p>
+            <p>
+               <hi>Ibid.</hi> [Neither is this ſelfe Contradiction, to aske which of the Saints had witneſſe of their ſoules union, to ſeek in the Letter, and yet to affirme the Spirit opens, and brings that which is ſpoken to remembrance]</p>
+            <p>The contra<g ref="char:EOLhyphen"/>diction is di<g ref="char:EOLhyphen"/>ſcovered in my 253.254. pag.</p>
+            <p>
+               <pb n="11" facs="tcp:118900:7"/>
+               <hi>Pag. 67.</hi> [Let <hi>J.S.</hi> firſt anſwer the Quere in plainneſſe, which is an honeſt Quere.]</p>
+            <p>The Quere (not over ho<g ref="char:EOLhyphen"/>neſt, while put forth in diſparagement of the Scriptures) was plainly anſwered in my firſt Book, to this effect: The witneſſe of a ſouls union is not in the Letter onely, but alſo in the Counter-pane written in a believers heart. See contradictions of Quakers pag. 21.</p>
+            <p>
+               <hi>Ibid.</hi> [Who ſaith, the Spirit is in the Letter]</p>
+            <p>See how clear<g ref="char:EOLhyphen"/>ed in the Reviler rebuked, page 4. and 254.</p>
+            <p>
+               <hi>Ibid.</hi> [He hath alſo ſlandered Chriſt to be imperfectly holy]</p>
+            <p>Chriſt was none of the Pen-men nor are the Secretaries of the Holy Ghoſt ſlandered, if judged in<g ref="char:EOLhyphen"/>feriour, in wiſedom and holineſs: to what they wrote.</p>
+            <p>
+               <hi>Pag. 68.</hi> [And though we ſay the Saints teacher cannot be removed into a corner, as ſaith the Scripture: and that the Saints will find their Teacher as they lye in their beds, both theſe are true]</p>
+            <p>The Scripture ſaith not [can<g ref="char:EOLhyphen"/>not] but [ſhall not] ſee <hi>Iſai.</hi> 30.20. ſpeak<g ref="char:EOLhyphen"/>ing of the teaching Levites, Prophets, and men of God: But if your Saints. Teacher cannot but be publicke, how will you find him in ſo private a place as your beds?</p>
+            <p>
+               <hi>Pag. 69. Rightly Paged,</hi> [Undervaluing words of the pure light of Chriſt]</p>
+            <p>
+               <hi>Ibid.</hi> [It is no contradiction to ſay, that every man is lightned by Chriſt with the true light,<note n="*" place="margin">True ſaving light, turns men out of their naturall condition. <hi>Act.</hi> 26.18.</note> and yet to ſay, ſome men are living in a naturall condition.]</p>
+            <p>But compa<g ref="char:EOLhyphen"/>ratively in re<g ref="char:EOLhyphen"/>ſpect of Chriſt himſelfe, and Goſpel-ſaving-light.</p>
+            <p>
+               <hi>Pag. 69.</hi> [He that lighteth every man, <hi>&amp;c.</hi> Is not baſe beggerly ſcraps, as <hi>J.S.</hi> it is.]</p>
+            <p>Learn I be<g ref="char:EOLhyphen"/>ſeech you, at laſt, to diſtinguiſh between the Light-given, and the Light-Giver.</p>
+            <p>
+               <hi>Pag. 70.</hi> [I would know of him where the Goſpel works, if not in men's Conſciences.]</p>
+            <p>Albeit Goſpel<g ref="char:EOLhyphen"/>conviction is feated in the Conſcience, yet it works about the conviction, which ariſeth meerly from a naturall Conſcience, as ſuch, ſee my 266. pag.</p>
+            <p>
+               <hi>Ibid.</hi> [He that can underſtand that Scripture <hi>John 1.5.</hi> Shall ſee the truth, <hi>&amp;c.</hi>]</p>
+            <p>Whether you underſtand it or no, let the judicious Reader obſerv by the context opened in my 54. page.</p>
+            <p>
+               <hi>Ibid.</hi> [The rule of the Spirit of God is above the Scripture]</p>
+            <p>Aſmuch as to ſay, he Scripture is above the Scripture. But the naked truth is, the ſpirit of God ruleth by the Scriptures. He is above his Rule, but the Saints (even as ſuch) are under it.</p>
+            <p>
+               <hi>Pag. 71.</hi> [Let him charge them that are guilty <hi>ſc.</hi> for putting off that for redemption light, which is but old-creation light.]</p>
+            <p>That is <hi>R.H.</hi> and <hi>E.B.</hi> with men of their deluded and deluding perſwaſion.</p>
+            <p>
+               <hi>Ibid.</hi> [His whole Section I leave to be read in his Book]</p>
+            <p>See my 276. p. I underſtand not this non<g ref="char:EOLhyphen"/>ſence.</p>
+            <p>
+               <hi>Ibid.</hi> [Neither did we ever affirme, that Chriſt is not in the Reprobate, and ſo is not in all]</p>
+            <p>
+               <pb n="12" facs="tcp:118900:8"/>
+               <hi>Ibid.</hi> [Neither do we concerning Juſtification contradict our ſelves.]</p>
+            <p>You muſt take their word for it, who will, not or cannot try their Doctrines by the Scripture Touch-ſtone, and compare one of their ſayings with another.</p>
+            <p>
+               <hi>Ibid.</hi> [What would <hi>J.S.</hi> have ſaid of <hi>John,</hi> who told them they needed no man to teach them.]</p>
+            <p>The Apoſtles meaning 1. Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2.27. is vindicated from theſe men, and cleared in my 41. pag.</p>
+            <p>
+               <hi>Pag. 74.</hi> [Though God ſpake by <hi>G.F.</hi> to him <hi>(viz. E. Bor.) ough</hi>) this doth not contradict the teaching of the Sporit of God]</p>
+            <p>It clearly ſheweth that E.B. had not all by the immediate teaching of the Spirit, and ſtill your contradiction holds, as I have demonſtrated it, in my 280.281. pages, or if you'l ſay, and it be your meaning, that God teacheth mediately here, to bring us to immediate teachings altogether in Heaven; and that outward teaching, leades to inward, and inward to outward: while we are here, it will argue ingenuity, a conceſſion of truth, and an eating of former claſhing expreſſions.</p>
+            <p>
+               <hi>Pag. 73. Rightly paged</hi> [<hi>E.B.</hi> doth never ſay, that the light of Chriſt is natur all and carnall, but the light of man]</p>
+            <p>Who gave man that light? Anſwer E.B. for your ſelf, and others.</p>
+            <p>
+               <hi>Ib.</hi> [<hi>E.B.</hi> Speaks of mans light, and <hi>J.S.</hi> fooliſhly oppoſeth him, &amp;c.]</p>
+            <p>Who, I aſk again, gaveman that light?</p>
+            <p>
+               <hi>Ibid.</hi> [Neither Chriſt nor his blood, is in Scripture.]</p>
+            <p>This is your ignorant Blaſphemy.</p>
+            <p>
+               <hi>Ibid.</hi> [Let it be moved.]</p>
+            <p>Where and whither? If it be moved at the Mouth by Alder-gate, let a room be built for it in the Land of Shinar.</p>
+            <p>
+               <hi>Pag.</hi> 74. [He ſaith the Scripture was given by the Spirit for a Rule, this we deſire a proof of by plain Scripture, till then we deny it]</p>
+            <p>If any man wil be ignorant and obſtinate: Let him be ignorant and Obſtinate.</p>
+            <p>
+               <hi>Ib.</hi> [He ſaith, the Spirit gives out himſelf by Scripture, and yet he ſaith, he never ſaid the Scripture did give the Spirit, and this is an abſolute contradiction]</p>
+            <p>In your appre<g ref="char:EOLhyphen"/>henſion, who knew not what a contradiction is, and what it is not.</p>
+            <p>
+               <hi>Ib,</hi> [He ſaith, our poſſeſſing perfection, and Quaking after <hi>Moſes</hi> example, croſs ſhins on the other.]</p>
+            <p>Profeſſing (I ſaid) yet I will hold, in your languager, much more.</p>
+            <p>
+               <hi>Ibid.</hi> [But wherein he doth not ſhew]</p>
+            <p>The thing ſhews it ſelfe; ſee my firſt Book, page 25.</p>
+            <p>
+               <hi>Pag. 75.</hi> [And yet doth own Prayer in the Spirit, and who are moved by the Spirit morning or evening, or at meales, or other<g ref="char:EOLhyphen"/>wiſe]</p>
+            <p>The Spirit moveth to payer (as to each other duty) by the Scripture-Rule, and according to it 1. <hi>Theſ.</hi> 17.18. <hi>Tim.</hi> 4.4. <hi>Act.</hi> 27.35. <hi>Rom</hi> 14.6.</p>
+            <p>
+               <pb n="13" facs="tcp:118900:8"/>
+               <hi>Pag. 76.</hi> [And this is truth, let <hi>J.S.</hi> gather what he can from it.]</p>
+            <p>J.S. gathers, that you would engroſſe the Spirit to your ſelves, which if it breath in your praiers, well; hee is ſure it breaths not in your Writings.</p>
+            <p>
+               <hi>Ib.</hi> [Speaking that which is not in the Spirit, we check.]</p>
+            <p>You check the Spirit in others, and grieve the Spirit (where it is) in any of your ſelves.</p>
+            <p>
+               <hi>Page 77.</hi> [According to the light of Chriſt Jeſus in every man's conſcience, which is but one in all.]</p>
+            <p>This helps your non<g ref="char:EOLhyphen"/>ſence, page 71. (rightly paged) but contradicts what was there delivered [<hi>Chriſt is not in the Reprobate.</hi>]</p>
+            <p>
+               <hi>Ibid. By theſe words</hi> [No Law must be concerning Reli<g ref="char:EOLhyphen"/>gion] we do not mean, that we ſhould not have a Law according to Religion, but no Law to limit to, or from this or that man<g ref="char:EOLhyphen"/>ner of Religion.]</p>
+            <p>It appears by this you do not alwaies mean as you ſpeak: but it were well your meanings were better then your ſayings; now learn to write and ſpeak better, and we ſhall the better judg of your meanings.</p>
+            <p>
+               <hi>Pag. 78.</hi> [Wee are not they that would have any Magiſtrates to bind themſelves from ſtriking at offenders, who are truly able to judge of offences.]</p>
+            <p>Agreed, and then all in my Epiſtle Dedi<g ref="char:EOLhyphen"/>catorie (charged with lies, ſlanders, preſumption, arrogancy, flattery and cruelty) will ſtand good againſt your charge.</p>
+            <p>
+               <hi>Ibid.</hi> and <hi>Pag. 79.</hi> [As for the reſt of his Book (ſc. the Appendiz.) &amp;c. His lyes I do deny, from firſt to <hi>8.</hi> Animad<g ref="char:EOLhyphen"/>verſion]</p>
+            <p>Here is all a<g ref="char:EOLhyphen"/>long, but your nay, againſt my yea: Whereof I give too home proof, for your patience to bear it. Let my Appendix be viewed and reviewed.</p>
+            <p>
+               <hi>Pag. 79.</hi> [So that from the firſt of his Book to his laſt, his whole work is borne witneſſe againſt not to be of God, but of the Devill]</p>
+            <p>If R H. (as it ſeems by the poſture of let<g ref="char:EOLhyphen"/>ters) liſted himſelfe to fight in the Front of the Pamphlet, and E.B. in the Rear, al<g ref="char:EOLhyphen"/>though they toſs and racket my name up and down as a Tennis-ball, from the beginning to the end, yet they do but beat the Aire, and ſtrike at themſelves, and hurt not me; For pag. 50. one ſaith, he purſues me not in every Argument; the other ſaith, From the firſt of my Book to the laſt, my whole work is born witneſſe againſt. How theſe things accord, let the Reader judg. Now R.H. and E.B. if you can receive the cenſure of a diſcerning Chriſtian (of no inferiour rank) it was this; All the reaſon of this your Book may be put into an Egge-ſhell, and for my part, I have no more taſte of it (except in ſuch few paſſages, where you are reduced to a better explication of your minds) then of the white of an Egge.</p>
+            <p>
+               <hi>Pag. 80, 81, 82, 83.</hi> [Ah! <hi>J.S.</hi> againſt whom haſt thou ſet thy ſelf, &amp;c]</p>
+            <p>To all theſe four laſt pages (with many other paſſages in the book) it is the King of Heavens commandement, <hi>Prov.</hi> 26.4. not to anſwer you a word.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
